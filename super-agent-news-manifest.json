@@ -1,0 +1,51 @@
+{
+  "citations": [
+    {
+      "source": "blog.google",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4"
+    },
+    {
+      "source": "Search Engine Journal",
+      "title": "Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents",
+      "url": "https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.mit.edu/2025/qa-what-agentic-ai-today-and-what-do-we-want-it-be"
+    },
+    {
+      "source": "SC Media",
+      "title": "Shell injection flaw found in 10 of 11 open-source AI agents",
+      "url": "https://www.scmagazine.com/"
+    },
+    {
+      "source": "Goodcall",
+      "title": "Best Moving Business Appointment Scheduling Software in 2026",
+      "url": "https://www.goodcall.com/"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed = hash(title + kind + audience + generated_at) \u2192 selected architecture = workflow-command-center. AIDA Check: Attention (cinematic hero), Interest (proof + market context), Desire (workflow + media), Action (CTA band). Font Selection: Cabinet Grotesk (brand-aligned, readable at scale). Hero Math Verification: H1 max-width 1120px, clamp ensures 2\u20133 lines on desktop. Bento Density Verification: grid-auto-flow: dense present. GSAP Motion Selection: pinned-chapter-scroll + hover-physics with guards. Label Sweep & Button Check: all CTAs high-contrast, black primary, white secondary, correct href verified.",
+  "generated_at": "2026-07-06T03:15:00.380223+00:00",
+  "headline": "Super for local service businesses handling bookings, quotes, and customer replies",
+  "site_brief": {
+    "audience": "local service businesses handling bookings, quotes, and customer replies",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work. Include a long-form field guide for this niche with concrete workflows, how-to steps, role-specific examples, objections, and a setup checklist.",
+    "kind": "niche_landing",
+    "queries": [
+      "local service businesses handling bookings, quotes, and customer replies AI assistant",
+      "local service businesses handling bookings, quotes, and customer replies personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-local-service-businesses-handling-bookings-quote",
+    "title": "Super for local service businesses handling bookings, quotes, and customer replies"
+  },
+  "summary": "A conversion\u2011focused, editorial landing page showing how Super acts as a personal AI agent for local service businesses \u2014 operating real software, reusing a computer-use cache, and reducing friction in bookings, quotes, and customer communication."
+}
